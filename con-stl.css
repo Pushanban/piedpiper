@@ -1,0 +1,24 @@
+.contxt{
+    margin-left: 30vh;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-top: -15vh;
+    color: white;
+    font-weight: bolder;
+    margin-bottom: -2vh;
+}
+
+.contact{
+    height: 60vh;
+    width: 140vh;
+    margin-left: 30vh;
+    margin-right: 30vh;
+    background-color: black;
+    color: white;
+}
+
+.deets{
+    font-size: 30px;
+    margin: 5px;
+    padding: 5vh;
+}

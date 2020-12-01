@@ -1,0 +1,20 @@
+.meet{
+    padding-left: 33vh;
+    color: rgba(139, 223, 183, 0.918);
+    text-align: center;
+    font-size: 30;
+}
+.border{
+    margin-left: 10vh;
+    margin-top: -10vh;
+    color: rgba(139, 223, 183, 0.918);
+}
+.func{
+    color: rgb(13, 66, 31);
+    margin-left: 65vh;
+    margin-top: 10vh;
+}
+.funcqual{
+    margin-left: -25vh;
+    font-size: 25px ;
+}
